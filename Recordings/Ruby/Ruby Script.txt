@@ -1,0 +1,19 @@
+My name is Ruby Stott, I was heavily involved in the development of HND Games Development and Design Group Project "Playdate" (show logo). All of my code was colour coded in red to be distinctive for this very explination.
+ 
+(add visuals: texture disclaimer) I initially started with designing the Level Blocking, we simulated the bedroom of a child/teenager given our toy-ish theme, I followed this theme realistically while scaling up for a toy's perspective, given that this was our intent. I built the block from the ground up in several stages; greyscale (add visuals: Screenshots), objects (add visuals: Screenshots), and finally polished as seen here. this took a while as i had to source and create several features within this, and also had to wait for others to also provide their sourced, and created background models, but it was completed in the end.
+ 
+(add visuals: Screenshots) On screen now should be the array of models i sourced from fab to make this blockout possible every one of them was used in some area.
+ 
+(add visuals: Screenshots) And now on screen should be the array of materials and textures that i sourced and applied to the blockout in areas, as before they are all used in some area.
+ 
+(add visuals: Screenshots) Finally on screen are models i created in the unreal editor itself, using basic shapes and sitting them together, overlapping, and using general basic geometry.
+ 
+Aside from the blocking of the level I also put together the models used as weaponry and ammo: The main rifle (add visuals: Screenshots), the secondary firearm (add visuals: Screenshots), and the foam-dart-like ammunition. The materials applied were created by me during the modelling process in Autodesk Maya.
+ 
+I was also involved in creating the model for one of our project's various ground enemy types: designated as "Shoey" (add visuals: Screenshots). I also created the materials attatched to this model within Maya.
+ 
+Another aspect i did on the project was visual design: specifically i designed, and added the logic for the pause menu, resume button, and "EXIT" button. this process started in figma (add visuals: Screenshots), and evolved into the Unreal Engine Widget Editor (add visuals: Screenshots) over time becoming functional (video of using menu). Here is the code i created in order to make the pause menu function in tandem with the input system to assign the menu to the "P" key (add visuals: Screenshots).
+ 
+When enemies decide to attack the player, a veiny particle appears beside them, this particle was created by me using Unreal Engine's Niagara system (add visuals: Screenshots). in doing this i used a PNG that i turned into a material, applied the material to the "Sprite Burst" Niagara template, added transparency to the original material, and then added logic (add visuals: Screenshots).
+ 
+Lastly when the ranged weaponry fires ammunition, it creates a "POP" sound effect, this sound was sourced, extracted, cut, and applied by me (add visuals: Screenshots) and while there were initial issues, they were swiftly resolved.
